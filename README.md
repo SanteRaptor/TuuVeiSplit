@@ -1,5 +1,5 @@
 # TuuVeiSplit
-A non-symmetrical split keyboard with Vial support
+A non-symmetrical non-standard (2x y & h with a b on the left side) split keyboard with Vial support
 
 Repository contains:
 -Case STLs with extras
