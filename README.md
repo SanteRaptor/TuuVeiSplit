@@ -7,3 +7,6 @@ Repository contains:
 -QMK required files
 -VIAL Json file
 -PCB STL
+
+
+All tested working and keyboard has been built accordingly
