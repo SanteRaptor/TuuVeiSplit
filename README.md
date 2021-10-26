@@ -8,6 +8,7 @@ Repository contains:
 -QMK required files
 -VIAL Json file
 -PCB STL
+-GERBERS!
 
 
 Uses 2 arduino pro micros (or alternatives), 2 TRRS ports and a TRRS cable for connecting the sides, trough-hole diodes, only 2U stabilizers.
