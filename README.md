@@ -20,7 +20,7 @@ Repository contains:
 
 (both versions compatible with eachothers parts)
 
-Uses 2 arduino pro micros (or alternatives), 2 trough-hole TRRS ports and a TRRS cable for connecting the sides, trough-hole diodes, only 2U PCB stabilizers.
+Uses 2 arduino pro micros (or alternatives), 2 trough-hole TRRS ports and a TRRS cable for connecting the sides, trough-hole or smd 1n4148 diodes, 5 2U PCB stabilizers and 2 trough-hole resistors (chose to use 7.4k 1w but less wattage is fine).
 
 Both versions tested to be fully working and keyboards have been built accordingly
 
