@@ -35,3 +35,6 @@ V1.5
 V1.0
 ![IMG_20210815_141649](https://user-images.githubusercontent.com/51802400/138939913-66530f2b-2dd3-4cf8-b3de-dd19361c0cfc.jpg)
 ![IMG_20210525_163526](https://user-images.githubusercontent.com/51802400/138940188-4ffcdc56-848a-4df2-81f5-7e2c3c396076.jpg)
+
+Acrylic case
+![20220712_135821](https://user-images.githubusercontent.com/17513593/180507079-6d3c9c2a-afbe-48fa-aedd-5ebf416ff9d6.jpg)
